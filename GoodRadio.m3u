@@ -1,0 +1,16 @@
+#EXTM3U
+#PLAYLIST:Online radio: VARIOUS Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504895.png" group-title="VARIOUS Radio - radio.pervii.com", KRCL Community Connection
+http://stream.xmission.com/krcl-high
+
+#PLAYLIST:Online radio: TALK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403451922.png" group-title="TALK Radio - radio.pervii.com", Loveline - 64 kbit/s
+http://challenger.phil21.net:8000/stream
+
+#PLAYLIST:Online radio: TALK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403451922.png" group-title="TALK Radio - radio.pervii.com", The Ultimate Art Bell - 32 kbit/s
+http://stream.willstare.com:8450/stream/1/
+
+#PLAYLIST:Online radio: NEWS Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12472.jpg" group-title="NEWS Radio - radio.pervii.com", KUER HD1 FM 90.1 Salt Lake City
+https://kuer.streamguys1.com/high_icy
