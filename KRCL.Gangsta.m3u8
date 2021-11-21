@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,krcl-high
+#EXTVLCOPT:network-caching=600
+http://stream.xmission.com/krcl-high

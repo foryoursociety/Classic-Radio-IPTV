@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,high
+#EXTVLCOPT:network-caching=600
+http://audio.kuer.org:8000/high
